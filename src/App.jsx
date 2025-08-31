@@ -120,4 +120,5 @@ export default function App(){
       <footer>Built with React + Vite • Data persists in your browser localStorage</footer>
     </div>
   )
+    // test deploy
 }

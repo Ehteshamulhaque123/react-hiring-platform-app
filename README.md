@@ -21,6 +21,13 @@ React Hiring Platform is a modern, lightweight job board application built with 
 - LocalStorage API
 - Modern CSS (dark theme)
 
+
+## Automatic Deployment
+
+This project uses an automatic deployment workflow powered by GitHub Actions. Every time you push changes to the repository, the app is built and deployed to GitHub Pages. No manual deployment steps are required.
+
+You can view the live app at: [https://ehteshamulhaque123.github.io/react-hiring-platform-app/](https://ehteshamulhaque123.github.io/react-hiring-platform-app/)
+
 ## Getting Started
 
 ### Prerequisites
